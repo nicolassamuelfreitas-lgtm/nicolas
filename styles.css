@@ -1,4 +1,12 @@
-boby{
-    color:whati; 
-    beckground:brack;
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+header {
+    border-bottom: solid 2px rgb(0, 110, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
